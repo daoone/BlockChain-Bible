@@ -7,6 +7,9 @@
 
 > BlockChain-Bible-4 | 第四章  区块链和智能合约开发 
 
+每个项目都有一个README.md文件，可以简要介绍章节内容。
+
+
 
 
 ## MarkDown 语法编辑器
