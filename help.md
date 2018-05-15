@@ -10,7 +10,13 @@
 每个项目都有一个README.md文件，可以简要介绍章节内容。
 
 
+##Git教程
+[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 
+容易上手
 
+
+## MarkDown 语法指南
+https://www.appinn.com/markdown/#p
 
 ## MarkDown 语法编辑器
 [MdCharm](http://www.mdcharm.com/) 简单易用
@@ -20,5 +26,3 @@
 
 
 
-## MarkDown 语法指南
-https://www.appinn.com/markdown/#p
