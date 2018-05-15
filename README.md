@@ -45,7 +45,7 @@
   * [3.5 行业资讯网站]()	 
 
 
-* [第四章  区块链和智能合约开发](chapter4/SUMMARY.md)
+* [第四章  区块链和智能合约开发](chapter4/README.md)
   * [4.1	区块链开发]()	
   * [4.1.1	区块链架构设计](chapter4/develop/architecture-design.md)
   * [4.1.2	区块链开源项目]()
