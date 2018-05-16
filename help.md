@@ -1,15 +1,14 @@
 # GitHub 区块链圣经协作帮助文档
 
 ## 项目说明
-组织仓库目录：https://github.com/DaoOne-Bible
+组织仓库目录：https://github.com/daoone/BlockChain-Bible
 
-可以在组织下创建项目，每个项目就是一个章节，项目命名规则如下：
+可以在该项目下创建章节，一个章节即一个文件夹，如第四章为chapter4
 
-> BlockChain-Bible-4 | 第四章  区块链和智能合约开发 
+**每个章节都有一个README.md文件，可以简要介绍本章协作情况、内容介绍**
 
-每个项目都有一个README.md文件，可以简要介绍本章**协作情况、工作日志**
+协作者请提交github账号到Blingbling，我们统一添加到daoone的圣经小组。
 
-新建SUMMARY.md文件编写本章目录结构。(已合并，在首页即可)
 
 
 ##Git教程

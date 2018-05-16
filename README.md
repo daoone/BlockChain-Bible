@@ -1,8 +1,10 @@
 ## 区块链圣经
 
-* 待办事项
-  * 合并到DAOONE，开通权限
+[帮助文档](help.md)
 
+* 待办事项
+  * GitHub使用培训
+  * 各个章节内容从石墨文档迁移
 
 ---
 * [第一章  区块链哲学]()
@@ -35,10 +37,10 @@
 
 * [第三章  区块链发展现状]()
   * [3.1	项目分类]()	 
-  * [3.1.1 底层技术和基础设施]()
-  * [3.1.2 中间件和开发扩展]()
-  * [3.1.3 资产和流动性]()
-  * [3.1.4 应用层]()
+    * [3.1.1 底层技术和基础设施]()
+    * [3.1.2 中间件和开发扩展]()
+    * [3.1.3 资产和流动性]()
+    * [3.1.4 应用层]()
   * [3.2 公链榜单]()
   * [3.3 DAPP]()	 
   * [3.4 社群榜单]()	 
@@ -46,18 +48,18 @@
 
 
 * [第四章  区块链和智能合约开发](chapter4/README.md)
-  * [4.1	区块链开发]()	
-  * [4.1.1	区块链架构设计](chapter4/develop/architecture-design.md)
-  * [4.1.2	区块链开源项目]()
-  * [4.1.3	区块链技术实现]()
-  * [4.1.4	区块链项目实践]()	
-  * [4.2	智能合约开发]()
-  * [4.2.1	以太坊工作原理]()
-  * [4.2.2	智能合约开发环境]()
-  * [4.2.3	智能合约与Solidity]()	
-  * [4.2.4	web3.js63开发]()	
-  * [4.2.5	创建数字钱包]()	
-  * [4.2.6	智能合约部署]()	
+  * [4.1	区块链开发](chapter4/README.md)	
+    * [4.1.1	区块链架构设计](chapter4/develop/architecture-design.md)
+    * [4.1.2	区块链开源项目](chapter4/develop/opensource.md)
+    * [4.1.3	区块链技术实现](chapter4/develop/tech-do.md)
+    * [4.1.4	区块链项目实践](chapter4/develop/project-do.md)	
+  * [4.2	智能合约开发](chapter4/README.md)
+    * [4.2.1	以太坊工作原理](chapter4/contract/TODO.md)
+    * [4.2.2	智能合约开发环境](chapter4/contract/TODO.md)
+    * [4.2.3	智能合约与Solidity](chapter4/contract/TODO.md)	
+    * [4.2.4	web3.js63开发](chapter4/contract/TODO.md)	
+    * [4.2.5	创建数字钱包](chapter4/contract/TODO.md)	
+    * [4.2.6	智能合约部署](chapter4/contract/TODO.md)	
 
 
 * [第五章  区块链项目评估]()
