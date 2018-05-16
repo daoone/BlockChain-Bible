@@ -69,9 +69,8 @@
 
 
 * [第六章  风险投资机构布局区块链情况](chapter6/README.md) 
-
-  * [6.1 抢占先机-传统主流VC投资区块链](chapter6/README.md)
-  * [6.2 黑马亮相-专注区块链投资的新型风投机构](chapter6/README.md)
+   * [6.1 抢占先机-传统主流VC投资区块链](chapter6/README.md)
+   * [6.2 黑马亮相-专注区块链投资的新型风投机构](chapter6/README.md)
 
 
 * [第七章  各国监管政策和预判]()
