@@ -21,7 +21,7 @@
 https://www.appinn.com/markdown/#p
 
 ## MarkDown 语法编辑器
-[MdCharm](http://www.mdcharm.com/) 简单易用
+[MdCharm](http://www.mdcharm.com/) 简单易用,如果打不开下载这个链接，[http://www.xzking.com/html/40622.html](http://www.xzking.com/html/40622.html)
 
 [Intelij IDEA](https://www.jetbrains.com/idea/) 
 [注册码](http://idea.lanyus.com/) 专业开发使用，内置git客户端，方便提交内容
