@@ -84,10 +84,10 @@
 
 
 * [附录1  区块链技术常用术语](appendix1/README.md) 
-  * [区块链术语]()
-  * [密码学术语]()
-  * [算法术语]()
-  * [Dapp术语]()
+  * [区块链术语](appendix1/blockchain-term.md)
+  * [密码学术语](appendix1/secret-term.md)
+  * [算法术语](appendix1/algorithm-term.md)
+  * [Dapp术语](appendix1/dapp-term.md)
 
 
 * [附录2  人物关系表]() 
